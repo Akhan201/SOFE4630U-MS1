@@ -55,7 +55,7 @@ You will start by creating a GCP account. Then, you will learn how to configure 
    The console will be opened at the bottom of the page as shown in the following figure and from it we can exchange files and folders with your local computer by downloading or uploading them. You can also click **Open Editor** button to open a text editor.
     
    <img src="images/1-5.PNG" alt="a6" width="750">
-* Editor: It’s a text editor that allows you to edit plain text file as shown in the following figure. You can switch back to the console by clicking **Open Terminal** button.
+* Editor: Google cloud uses a version of VS code that you should be familiar with if you need to work directly on your files in this shell. You can switch back to the console by clicking **Open Terminal** button.
   
    <img src="images/1-6.PNG" alt="a7" width="750">
 # Cloud Pub/Sub
