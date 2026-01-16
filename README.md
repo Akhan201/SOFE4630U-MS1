@@ -1,7 +1,7 @@
 # Milestone 1: Data Ingestion System (Cloud Pub/Sub)
 
 ## Repository: 
-https://github.com/zubxxr/SOFE4630U-MS1
+https://github.com/MohammadYasserZaki/SOFE4630U-MS1
 
 ## Table of Contents
 - [Objectives](#objectives)
